@@ -52,5 +52,18 @@ buck-out/
 */fastlane/Preview.html
 */fastlane/screenshots
 
+ios/*.dSYM.zip
+ios/Pods
+
+package-lock.json
+yarn.lock
+
+.vscode
+
+# Android RN bundles
+android/app/src/main/assets/index.android.bundle
+android/app/src/main/assets/index.android.bundle.meta
+
 # Bundle artifact
 *.jsbundle
+
